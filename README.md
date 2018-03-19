@@ -2,6 +2,6 @@
 A helper made with python for game named word cookies.  
 Just run:
 ``` bash
-python word_cookies.py
+python word-cookies.py
 ```  
 then write level charaters and hit enter.
